@@ -1,0 +1,6 @@
+requests
+coloredlogs
+pyarmor
+pymongo
+pymongo[srv]
+pysimplegui
