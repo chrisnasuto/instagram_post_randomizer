@@ -1,0 +1,2 @@
+# instagram_post_randomizer
+This was an early develop of mine for an apparel e-commerce store I was running and was helping assist others with. I noticed the store used the same variation of pictures of the apparel as posts and the caption wasnt dependent on the picture. So in essence it's great if youre running an apparel e-com store because itll randomize the selection of pictures and captions, simplifying the posting process.
